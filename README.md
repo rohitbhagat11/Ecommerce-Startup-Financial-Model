@@ -2,7 +2,6 @@
 
 A 12-month, monthly operating forecast for an e-commerce startup, built in Microsoft Excel. The model connects traffic and conversion assumptions to orders, revenue, variable costs, fixed costs, and projected profit, with charts for traffic sources and revenue versus costs.
 
-> **Project model:** All figures are forecast outputs based on the assumptions in the workbook. They are not reported results or investment guidance.
 
 ## Model snapshot
 

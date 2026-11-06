@@ -12,7 +12,7 @@ A 12-month, monthly operating forecast for an e-commerce startup, built in Micro
 | Gross profit margin | 46.0% | 74.4% |
 | Profit / (loss) | ($1,928) | $8,944 |
 
-The forecast shows monthly profit turning positive in July 2022. Revenue rises through the year as modeled traffic and orders increase. The figures above are copied from the accompanying model exports; check the workbook for the complete monthly schedule and formulas.
+The forecast shows monthly profit turning positive in July 2022. Revenue rises through the year as modeled traffic and orders increase. 
 
 ## What the model covers
 

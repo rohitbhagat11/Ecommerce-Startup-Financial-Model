@@ -29,32 +29,11 @@ The forecast shows monthly profit turning positive in July 2022. Revenue rises t
 - Fulfillment is modeled at $5.00 per order; paid traffic cost is $0.40 per paid click.
 - Revenue is driven by separate organic and paid traffic and conversion assumptions, plus average item value and items per order.
 
-These are the assumptions visible in the supplied model exports. See the workbook for exact cell formulas, timing, and any additional inputs.
-
 ## Repository contents
-
-Suggested layout:
-
-```text
-.
-├── README.md
-└── exports/
-    ├── Revenue_Assumption.pdf
-    ├── Cost_Assumption.pdf
-    ├── Income_Statement.pdf
-    └── Charts_Visualization.pdf
-```
-
-Rename the workbook and export files in this section to match the files you upload. Include the Excel workbook if you want others to inspect and change the assumptions; the PDFs are convenient read-only previews.
-
-## How to use
-
-1. Download or clone this repository.
-2. Open `startup_financial_model.xlsx` in Microsoft Excel or a compatible spreadsheet application.
-3. Review the assumptions before changing inputs, then follow their impact through the monthly forecast and charts.
-4. Change the forecast period or assumptions only after confirming formulas and chart ranges extend to the intended months.
+- Revenue Statement
+- Cost Statement
+- Income Statement
+- Charts Visualization
 
 ## Author
 Rohit Bhagat
-
-
